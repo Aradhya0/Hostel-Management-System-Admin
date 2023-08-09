@@ -51,10 +51,4 @@ If you would like to contribute to the project, you can follow these steps:
 
 5. Submit a pull request to the `main` branch of the original repository.
 
-## Contact
-
-For any questions or inquiries, please contact the project maintainer:
-
-- Name: [Mayank Jain](https://mayankjain25.netlify.app)
-- Email: jainmayank2509@gmail.com
 
