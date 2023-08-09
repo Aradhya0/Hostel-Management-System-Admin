@@ -17,7 +17,7 @@ To run the Hostel Management System - Admin on your local machine, follow these 
 1. **Prerequisites:** Ensure you have installed the latest version of Node.js and npm on your system.
 
 2. **Clone the Repository:** Clone this repository to your local machine using the following command: 
-    ```git clone https://github.com/mayankjain25/Hostel-Management-System-Admin.git```
+    ```git clone https://github.com/Aradhya0/Hostel-Management-System-Admin.git```
 
 3. **Install Dependencies:** Navigate to the project directory and install the required dependencies by running: ```npm install```
 4. **Configure the Environment:** Create a `.env` file in the root directory and configure the necessary environment variables. You may refer to the `.env.example` file for reference.
